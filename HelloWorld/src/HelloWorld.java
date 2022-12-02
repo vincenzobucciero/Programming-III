@@ -21,3 +21,6 @@ public class HelloWorld {
 
 //classe -> astrazione indicante un insieme di oggetti che condividono le stesse caratteristiche e le stesse funzionalità
 //oggetto -> istanza (creazione fisica) di una classe
+
+//classe -> definisce i metodi che si possono applicare ai suoi oggetti
+//metodo -> definisce una funzionalità che deve avere il concetto che si sta astraendo con la classe
