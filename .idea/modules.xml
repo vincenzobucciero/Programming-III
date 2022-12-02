@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AritmVarArgs/AritmVarArgs.iml" filepath="$PROJECT_DIR$/AritmVarArgs/AritmVarArgs.iml" />
       <module fileurl="file://$PROJECT_DIR$/AritmeticaTest/AritmeticaTest.iml" filepath="$PROJECT_DIR$/AritmeticaTest/AritmeticaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankAccount/BankAccount.iml" filepath="$PROJECT_DIR$/BankAccount/BankAccount.iml" />
       <module fileurl="file://$PROJECT_DIR$/GreeterTest/GreeterTest.iml" filepath="$PROJECT_DIR$/GreeterTest/GreeterTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/MoveTest/MoveTest.iml" filepath="$PROJECT_DIR$/MoveTest/MoveTest.iml" />
