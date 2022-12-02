@@ -15,7 +15,7 @@ public class BankAccount {
         this.balance = mbalance;
     }
 
-    //OVERLOADING -> piu metodi con lo stesso nome
+    //OVERLOADING -> piu metodi con lo stesso nome ma con diversi numeri e tipi di parametri
     //Inizializzo conto bancario a 0
     public BankAccount () {
         this(0);
