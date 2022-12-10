@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class ConsoleReader {
 
-    private BufferedReader reader;
+    private final BufferedReader reader;
 
     public ConsoleReader(InputStream inStream) {
         reader = new BufferedReader(new InputStreamReader(inStream));
@@ -32,9 +32,9 @@ public class ConsoleReader {
     }
     public double readDouble() {
         String input = readLine();
-        double n = Double.parseDouble(input);
+        double x = Double.parseDouble(input);
 
-        return n;
+        return x;
     }
 
 }
