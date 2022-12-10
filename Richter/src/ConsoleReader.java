@@ -6,11 +6,7 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 
 public class ConsoleReader {
-    /**
-     Costruisce un lettore da console da un flusso di input
-     come per esempio System.in
-     @param inStream un flusso di input
-     */
+
     private BufferedReader reader;
 
     public ConsoleReader(InputStream inStream) {
