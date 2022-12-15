@@ -13,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/Prog3.iml" filepath="$PROJECT_DIR$/Prog3.iml" />
       <module fileurl="file://$PROJECT_DIR$/PurseTest/PurseTest.iml" filepath="$PROJECT_DIR$/PurseTest/PurseTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Richter/Richter.iml" filepath="$PROJECT_DIR$/Richter/Richter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileTest/WhileTest.iml" filepath="$PROJECT_DIR$/WhileTest/WhileTest.iml" />
     </modules>
   </component>
 </project>
